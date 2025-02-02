@@ -1,4 +1,4 @@
-package StringClasses;
+package String.StringClasses;
 
 public class Immutability_1 {
 

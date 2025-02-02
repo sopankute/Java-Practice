@@ -1,4 +1,4 @@
-package StringClasses;
+package String.StringClasses;
 
 import java.util.ArrayList;
 import java.util.List;
