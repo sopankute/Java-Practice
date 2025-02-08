@@ -95,7 +95,7 @@ public class Employee {
     public static List<Employee>  getListOfEmp(){
         List<Employee> empList = new ArrayList<>();
         empList.add(new Employee(1,  "Alice",    30, 60000, "Female", "HR",       "New York"));
-        empList.add(new Employee(2,  "Bob",      35, 75000, "Male",   "IT",       "San Francisco"));
+        empList.add(new Employee(2,  "Bob",      35, 35000, "Male",   "IT",       "San Francisco"));
         empList.add(new Employee(3,  "Charlie",  28, 50000, "Male",   "Finance",  "Chicago"));
         empList.add(new Employee(4,  "Diana",    40, 90000, "Female", "Marketing","Los Angeles"));
         empList.add(new Employee(5,  "Ethan",    32, 65000, "Male",   "Sales",    "Boston"));
