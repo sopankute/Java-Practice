@@ -5,6 +5,7 @@ import java.io.Serializable;
 public class RoseSingleton implements Serializable, Cloneable {    
     // Lazy
     private static RoseSingleton roseRoseSingleton;
+    
     // Constructor
     private RoseSingleton() {
         // solution for Reflection breaking pattern

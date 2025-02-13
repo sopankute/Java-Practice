@@ -1,4 +1,4 @@
-package Collection;
+
 
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -15,21 +15,24 @@ public class LinkedListClass {
         linkedList.addFirst(22);
         linkedList.addLast(99);
 
-        System.out.println(linkedList.get(2));
+        System.out.println(linkedList);
+
         System.out.println(linkedList.getFirst());
-        System.out.println(linkedList.getLast());
 
-        System.out.println(linkedList);
+        // System.out.println(linkedList.get(2));
+        // System.out.println(linkedList.getFirst());
+        // System.out.println(linkedList.getLast());
 
-        linkedList.remove(2);
-        linkedList.removeFirst();
-        linkedList.removeLast();
+
+        // linkedList.remove(2);
+        // linkedList.removeFirst();
+        // linkedList.removeLast();
         
-        linkedList.addAll(Arrays.asList(33, 76, 54));
+        // linkedList.addAll(Arrays.asList(33, 76, 54));
 
-        System.out.println(linkedList);
+        // System.out.println(linkedList);
 
-        linkedList.forEach(element->System.out.print("  "+element));
+        // linkedList.forEach(element->System.out.print("  "+element));
         
     }
 }

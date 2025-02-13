@@ -1,4 +1,4 @@
-package Collection;
+
 
 import java.util.ArrayList;
 // import java.util.List;
@@ -7,6 +7,8 @@ import java.util.ArrayList;
 // import java.util.Collections;
 // import java.util.Comparator;
 // import java.util.List;
+import java.util.Collection;
+import java.util.List;
 
 
 // class MyComparator implements Comparator<Integer>{
@@ -22,14 +24,16 @@ public class ArrayListClass {
 
     public static void main(String[] args) {
 
-
-      ArrayList<String> list=new ArrayList<>();
+       
+      List<String> list=new ArrayList<>();   // empty array.
       list.add("Apple");
       list.add("Bana");
       list.add("Cherryy");
       list.add("Apple");
 
       System.out.println(list);
+
+      // System.out.println();
 
       list.sort((s1, s2)->s1.length()-s2.length());
 
