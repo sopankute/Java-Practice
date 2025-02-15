@@ -2,13 +2,19 @@ package Map;
 
 import java.util.Collection;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
+import java.util.TreeMap;
 
 public class MapClass {
     public static void main(String[] args) {
         
-        Map<Integer, String> cityMap = new HashMap<>();
+        // Map<Integer, String> cityMap = new HashMap<>();
+        // Map<Integer, String> cityMap = new LinkedHashMap<>();
+        Map<Integer, String> cityMap = new TreeMap<>();
+
+
         cityMap.put(21, "New York");
         cityMap.put(25, "Los Angeles");
         cityMap.put(37, "Chicago");
