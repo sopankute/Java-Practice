@@ -1,7 +1,5 @@
 package Java_8.Practice;
 
-import java.util.ArrayList;
-import java.util.List;
 
 public class Employee {
 
@@ -92,8 +90,8 @@ public class Employee {
     }
 
 
-    public static List<Employee>  getListOfEmp(){
-        List<Employee> empList = new ArrayList<>();
+    public static java.util.List<Employee>  getListOfEmp(){
+        java.util.List<Employee> empList = new java.util.ArrayList<>();
         empList.add(new Employee(1,  "Alice",    30, 60000, "Female", "HR",       "New York"));
         empList.add(new Employee(2,  "Bob",      35, 35000, "Male",   "IT",       "San Francisco"));
         empList.add(new Employee(3,  "Charlie",  28, 50000, "Male",   "Finance",  "Chicago"));
@@ -101,13 +99,13 @@ public class Employee {
         empList.add(new Employee(5,  "Ethan",    32, 65000, "Male",   "Sales",    "Boston"));
         empList.add(new Employee(6,  "Fiona",    29, 55000, "Female", "IT",       "Austin"));
         empList.add(new Employee(7,  "George",   45, 95000, "Male",   "Finance",  "Boston"));
-        empList.add(new Employee(8,  "Hannah",   27, 48000, "Female", "HR",       "Denver"));
+        empList.add(new Employee(8,  "Hannah",   27, 48000, "Female", "Sales",       "Denver"));
         empList.add(new Employee(9,  "Ian",      38, 72000, "Male",   "Marketing","Miami"));
         empList.add(new Employee(10, "Julia",    33, 68000, "Female", "Sales",    "San Francisco"));
         empList.add(new Employee(11, "Kevin",    31, 64000, "Male",   "IT",       "Dallas"));
         empList.add(new Employee(12, "Laura",    26, 51000, "Female", "Finance",  "San Francisco"));
         empList.add(new Employee(13, "Michael",  37, 80000, "Male",   "HR",       "Boston"));
-        empList.add(new Employee(14, "Nina",     30, 60000, "Female", "Marketing","Dallas"));
+        empList.add(new Employee(14, "Nina",     30, 60000, "Female", "IT","Dallas"));
         empList.add(new Employee(15, "Oliver",   41, 87000, "Male",   "Sales",    "Boston"));
 
 

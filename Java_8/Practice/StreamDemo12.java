@@ -13,6 +13,6 @@ public class StreamDemo12 {
 
         itr.forEachRemaining(e->System.out.println(e));
 
-        Object
+      
     }
 }

@@ -13,9 +13,12 @@ import java.util.ArrayList;
  * Storing Graph 
  * 1. Adjacency List : Array of ArrayList of Edge type, Edge is having Source and Destination  
  * 2. Adjacency Matrix
- * 3. Edge List
- * 4. 2D Matrix 
+ * 3. Edge List : Minimum Spanning Tree(MST) Store List of Edges or List of Edges with Weight 
+ * 4. 2D Matrix : Flood Fill Algoritham 
  * 
+ *  Graph Traversals :
+ *  Breadth First Search (BFS)
+ *  Depth First Search (DFS)
  */
 
 /*  
