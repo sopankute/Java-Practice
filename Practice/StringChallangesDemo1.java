@@ -1,7 +1,10 @@
 package Practice;
 
+import java.security.KeyStore.Entry;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.LinkedHashSet;
+import java.util.Map;
 import java.util.Set;
 
 public class StringChallangesDemo1 {
@@ -96,8 +99,91 @@ public class StringChallangesDemo1 {
 
     public static void charFreqInString(){
 
-        
+        Map<Character, Integer> map = new HashMap<>();
+        String str = "hello";
+        char[] str1 = str.toCharArray();
 
+       for(char ch : str1){
+            if(!map.containsKey(ch)){
+                map.put(ch, 1);
+            }else{
+                int count = map.get(ch);
+                map.put(ch, count+1);
+            }
+       }
+
+       System.out.println(map);     // {e=1, h=1, l=2, o=1}
+    }
+
+    // Without Collection
+    public static void firstNonRepeatedCharInString1(){
+
+        String str = "AABCDBE";
+
+        for(int i=0; i<str.length(); i++){
+            boolean unique = true;
+            for(int j=0; j<str.length(); j++){          // compare ch from 0 to str.length()-1
+                if(i!=j && str.charAt(i) == str.charAt(j)){
+                    // repeated
+                    unique = false;
+                    break;
+                }
+            }
+            if(unique){
+                System.out.println(str.charAt(i));
+                break;
+            }
+        }
+    }
+
+    // Without Collection
+    public static void firstNonRepeatedCharInString2(){ 
+
+        String str = "AABCDBE";
+
+        Map<Character, Integer> map = new HashMap<>();
+
+        for(int i=0; i<str.length(); i++){
+
+            char ch = str.charAt(i);
+
+            if (map.containsKey(ch)) {
+                map.put(ch, map.get(ch)+1);
+            }else{
+                map.put(ch, 1);
+            }
+        }
+
+        for(Map.Entry<Character, Integer> entry : map.entrySet()){
+            if(entry.getValue() == 1){
+                System.out.println(entry.getKey());
+                break;
+            }
+        }
+        System.out.println(map);
+    }
+
+    public static void replaceCharWithItsOccurrence(){
+
+        String str = "OPENTEXT";
+        char ch = 'T';
+
+        if(str.indexOf(ch) == -1){
+            System.out.println("Given char not present");
+            System.exit(0);
+        }
+
+        char[] str1 = str.toCharArray();
+        int count=1;
+
+        for(int i=0; i<str1.length; i++){
+            
+            if (str1[i] == ch) {
+                str1[i] = String.valueOf(count).charAt(0);
+                count++;
+            }
+        }
+        System.out.println(Arrays.toString(str1));
     }
 
 
@@ -105,6 +191,9 @@ public class StringChallangesDemo1 {
         // reverseString();
         // removeDuplicates();
         // reverseEachWord();
-        charFreqInString();
+        // charFreqInString();
+        // firstNonRepeatedCharInString1();
+        // firstNonRepeatedCharInString2();
+        replaceCharWithItsOccurrence();
     }
 }
