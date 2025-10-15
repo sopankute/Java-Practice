@@ -1,10 +1,11 @@
-import java.util.*;
+import java.util.LinkedList;
+import java.util.Scanner;
 
 public class Inputs{
 
 	public static void main(String[] args) {
-		
-
+	
+	
 		@SuppressWarnings("resource")
 		Scanner sc=new Scanner(System.in);
 

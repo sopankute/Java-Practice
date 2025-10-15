@@ -1,0 +1,1449 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Order",
+            "request": "launch",
+            "mainClass": "Java_8.Order",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StartArrays",
+            "request": "launch",
+            "mainClass": "Arrays.StartArrays",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "UniqueFromArray",
+            "request": "launch",
+            "mainClass": "Arrays.UniqueFromArray",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SortedOrNot",
+            "request": "launch",
+            "mainClass": "Arrays.SortedOrNot",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "LargestElement1",
+            "request": "launch",
+            "mainClass": "Arrays.LargestElement1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "GroupAnagrams",
+            "request": "launch",
+            "mainClass": "Java_8.GroupAnagrams",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamAPIPractice2",
+            "request": "launch",
+            "mainClass": "Java_8.StreamAPI.StreamAPIPractice2",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamAPIPractice1",
+            "request": "launch",
+            "mainClass": "Java_8.StreamAPI.StreamAPIPractice1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "InstanceOf",
+            "request": "launch",
+            "mainClass": "JavaPrograms.InstanceOf",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "NumberSegregation",
+            "request": "launch",
+            "mainClass": "JavaPrograms.NumberSegregation",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClass1",
+            "request": "launch",
+            "mainClass": "OOPS.AbstractClass1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Shallow_Deep",
+            "request": "launch",
+            "mainClass": "Shallow_Deep",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Shallow_Deep",
+            "request": "launch",
+            "mainClass": "DesignPattern.Shallow_Deep",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SwitchStatement",
+            "request": "launch",
+            "mainClass": "SwitchStatement",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "TestSynchronization",
+            "request": "launch",
+            "mainClass": "MultiThreading1.Synchronization.TestSynchronization",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClassImpl",
+            "request": "launch",
+            "mainClass": "AbstractClassImpl",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "AbstractFactoryDesignPat.Test",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListClass",
+            "request": "launch",
+            "mainClass": "ArrayListClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "LargestElement",
+            "request": "launch",
+            "mainClass": "Arrays.LargestElement",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MaxInDuplicate",
+            "request": "launch",
+            "mainClass": "Arrays.MaxInDuplicate",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "PrintSubset",
+            "request": "launch",
+            "mainClass": "Arrays.PrintSubset",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Test(1)",
+            "request": "launch",
+            "mainClass": "BuilderDesignPattern.Test",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ComparableClass",
+            "request": "launch",
+            "mainClass": "ComparableClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "CopyOnWriteArrayListClass",
+            "request": "launch",
+            "mainClass": "CopyOnWriteArrayListClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "CustomException",
+            "request": "launch",
+            "mainClass": "CustomException",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Employee1",
+            "request": "launch",
+            "mainClass": "Employee1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "EnumDemo",
+            "request": "launch",
+            "mainClass": "EnumDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "EnumDemo1",
+            "request": "launch",
+            "mainClass": "EnumDemo1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "EnumDemo2",
+            "request": "launch",
+            "mainClass": "EnumDemo2",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "EnumDemo3",
+            "request": "launch",
+            "mainClass": "EnumDemo3",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "TestService",
+            "request": "launch",
+            "mainClass": "FactoryPattern.TestService",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ForEachLoop",
+            "request": "launch",
+            "mainClass": "ForEachLoop",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "GarbageClass",
+            "request": "launch",
+            "mainClass": "GarbageCollector.GarbageClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "GenericDemo1",
+            "request": "launch",
+            "mainClass": "Generics.GenericDemo1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "GenericDemo2",
+            "request": "launch",
+            "mainClass": "Generics.GenericDemo2",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "GraphAdjListDemo1",
+            "request": "launch",
+            "mainClass": "Graph.GraphAdjListDemo1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "GraphAdjListDemo2",
+            "request": "launch",
+            "mainClass": "Graph.GraphAdjListDemo2",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "GraphAdjMatrixDemo1",
+            "request": "launch",
+            "mainClass": "Graph.GraphAdjMatrixDemo1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "HandleException",
+            "request": "launch",
+            "mainClass": "HandleException",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "FileHandlingDemo",
+            "request": "launch",
+            "mainClass": "IOFileHandling.FileHandlingDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "FileHandlingDemo1",
+            "request": "launch",
+            "mainClass": "IOFileHandling.FileHandlingDemo1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "AccessOutermember",
+            "request": "launch",
+            "mainClass": "InnerClasses.AccessOutermember",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousClass",
+            "request": "launch",
+            "mainClass": "InnerClasses.AnonymousClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousRunnableClass",
+            "request": "launch",
+            "mainClass": "InnerClasses.AnonymousRunnableClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousThreadClass",
+            "request": "launch",
+            "mainClass": "InnerClasses.AnonymousThreadClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "InnerClasses",
+            "request": "launch",
+            "mainClass": "InnerClasses.InnerClasses",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MethodInnerClass",
+            "request": "launch",
+            "mainClass": "InnerClasses.MethodInnerClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "InnerMyInterface1",
+            "request": "launch",
+            "mainClass": "InnerMyInterface1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Inputs",
+            "request": "launch",
+            "mainClass": "Inputs",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Test(2)",
+            "request": "launch",
+            "mainClass": "IteratorDesignPattern.Test",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "EvenAndOddNumbers",
+            "request": "launch",
+            "mainClass": "JavaPrograms.EvenAndOddNumbers",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "JavaPrograms.Factorial",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "FindAssciiValue",
+            "request": "launch",
+            "mainClass": "JavaPrograms.FindAssciiValue",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "HCFOfTwoNum",
+            "request": "launch",
+            "mainClass": "JavaPrograms.HCFOfTwoNum",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "NaturalNumbers",
+            "request": "launch",
+            "mainClass": "JavaPrograms.NaturalNumbers",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "PowerOfNum",
+            "request": "launch",
+            "mainClass": "JavaPrograms.PowerOfNum",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "PrimeOrNot",
+            "request": "launch",
+            "mainClass": "JavaPrograms.PrimeOrNot",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "PrintAlphabets",
+            "request": "launch",
+            "mainClass": "JavaPrograms.PrintAlphabets",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "PrintTables",
+            "request": "launch",
+            "mainClass": "JavaPrograms.PrintTables",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ReverseDigit",
+            "request": "launch",
+            "mainClass": "JavaPrograms.ReverseDigit",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigit",
+            "request": "launch",
+            "mainClass": "JavaPrograms.SumOfDigit",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNuturalNum",
+            "request": "launch",
+            "mainClass": "JavaPrograms.SumOfNuturalNum",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorReferenceClass",
+            "request": "launch",
+            "mainClass": "Java_8.ConstructorReferenceClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "DateDemo1",
+            "request": "launch",
+            "mainClass": "Java_8.DateDemo1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "DateTimeClass",
+            "request": "launch",
+            "mainClass": "Java_8.DateTimeClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "LambdaFunctionClass",
+            "request": "launch",
+            "mainClass": "Java_8.LambdaFunctionClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MethodReferenceClass",
+            "request": "launch",
+            "mainClass": "Java_8.MethodReferenceClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MyInterface1",
+            "request": "launch",
+            "mainClass": "Java_8.MyInterface1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ConsumerDemo",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.ConsumerDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "EncodeDecodeDemo",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.EncodeDecodeDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "FilterDemo",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.FilterDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "FunctionDemo",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.FunctionDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "IOStreamDemo",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.IOStreamDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "PredicateDemo",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.PredicateDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ReferenceDemo",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.ReferenceDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ReferenceDemo1",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.ReferenceDemo1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ReferenceDemo2",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.ReferenceDemo2",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SortingDemo",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.SortingDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo10",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.StreamDemo10",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo11",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.StreamDemo11",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo12",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.StreamDemo12",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo13",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.StreamDemo13",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo14",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.StreamDemo14",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo2",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.StreamDemo2",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo3",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.StreamDemo3",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo4",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.StreamDemo4",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo5",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.StreamDemo5",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo6",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.StreamDemo6",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo7",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.StreamDemo7",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo8",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.StreamDemo8",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo9",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.StreamDemo9",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SupplierDemo",
+            "request": "launch",
+            "mainClass": "Java_8.Practice.SupplierDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "PredicateClass",
+            "request": "launch",
+            "mainClass": "Java_8.PredicateClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "PredicateDemo1",
+            "request": "launch",
+            "mainClass": "Java_8.PredicateDemo1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamAPIPractice",
+            "request": "launch",
+            "mainClass": "Java_8.StreamAPI.StreamAPIPractice",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamAPIClass",
+            "request": "launch",
+            "mainClass": "Java_8.StreamAPIClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamClass",
+            "request": "launch",
+            "mainClass": "Java_8.StreamClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemo1",
+            "request": "launch",
+            "mainClass": "Java_8.StreamDemo1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StreamObjects",
+            "request": "launch",
+            "mainClass": "Java_8.StreamObjects",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Test(3)",
+            "request": "launch",
+            "mainClass": "Java_8.Test",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "Java_8.Test1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "Java_8.Test2",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Test3",
+            "request": "launch",
+            "mainClass": "Java_8.Test3",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "TestClass",
+            "request": "launch",
+            "mainClass": "Java_8.TestClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "LocalFinalVariable",
+            "request": "launch",
+            "mainClass": "Keywords_Program.LocalFinalVariable",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "LocalVariable",
+            "request": "launch",
+            "mainClass": "Keywords_Program.LocalVariable",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StaticVariable",
+            "request": "launch",
+            "mainClass": "Keywords_Program.StaticVariable",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "WrapperClass",
+            "request": "launch",
+            "mainClass": "Keywords_Program.WrapperClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListClass",
+            "request": "launch",
+            "mainClass": "LinkedListClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MainClass",
+            "request": "launch",
+            "mainClass": "MainClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "EnumMapClass",
+            "request": "launch",
+            "mainClass": "Map.EnumMapClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "HashMapClass",
+            "request": "launch",
+            "mainClass": "Map.HashMapClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "IndentityHashMapClass",
+            "request": "launch",
+            "mainClass": "Map.IndentityHashMapClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "IteratorClass",
+            "request": "launch",
+            "mainClass": "Map.IteratorClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "LInkedHashMapClass",
+            "request": "launch",
+            "mainClass": "Map.LInkedHashMapClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MapClass",
+            "request": "launch",
+            "mainClass": "Map.MapClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SortedMapClass",
+            "request": "launch",
+            "mainClass": "Map.SortedMapClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ModifiersClass",
+            "request": "launch",
+            "mainClass": "ModifiersClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ThreadExample",
+            "request": "launch",
+            "mainClass": "MultiThreading1.ThreadExample",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MultithreadingClass",
+            "request": "launch",
+            "mainClass": "MultithreadingClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MultithreadingDemo4",
+            "request": "launch",
+            "mainClass": "MultithreadingDemo4",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MultithreadingDemo5",
+            "request": "launch",
+            "mainClass": "MultithreadingDemo5",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MultithreadingTest",
+            "request": "launch",
+            "mainClass": "MultithreadingTest",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MultithreadingTest3",
+            "request": "launch",
+            "mainClass": "MultithreadingTest3",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MultithreadingTest6",
+            "request": "launch",
+            "mainClass": "MultithreadingTest6",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MyInterfaceTest1",
+            "request": "launch",
+            "mainClass": "MyInterfaceTest1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MyThread",
+            "request": "launch",
+            "mainClass": "MyThread",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "AbstractionClass",
+            "request": "launch",
+            "mainClass": "OOPS.AbstractionClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "EncapsulationMain",
+            "request": "launch",
+            "mainClass": "OOPS.EncapsulationMain",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceClass",
+            "request": "launch",
+            "mainClass": "OOPS.InterfaceClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Overloading",
+            "request": "launch",
+            "mainClass": "OOPS.Overloading",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "OverloadingAmbiguityCheck",
+            "request": "launch",
+            "mainClass": "OOPS.OverloadingAmbiguityCheck",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "OverloadingMain",
+            "request": "launch",
+            "mainClass": "OOPS.OverloadingMain",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "PolymorphismTest",
+            "request": "launch",
+            "mainClass": "OOPS.PolymorphismTest",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "PolymorphismTest1",
+            "request": "launch",
+            "mainClass": "OOPS.PolymorphismTest1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ObjectClassMethods",
+            "request": "launch",
+            "mainClass": "ObjectsMethods.ObjectClassMethods",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Test(4)",
+            "request": "launch",
+            "mainClass": "ObserverDesignPattern.Test",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "OperatorsClass",
+            "request": "launch",
+            "mainClass": "OperatorsClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ArraysEqualorNot",
+            "request": "launch",
+            "mainClass": "Practice.ArraysEqualorNot",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "BlockDemo",
+            "request": "launch",
+            "mainClass": "Practice.BlockDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ChallangesDemo",
+            "request": "launch",
+            "mainClass": "Practice.ChallangesDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "CountDigit",
+            "request": "launch",
+            "mainClass": "Practice.CountDigit",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Demo1",
+            "request": "launch",
+            "mainClass": "Practice.Demo1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateElement",
+            "request": "launch",
+            "mainClass": "Practice.DuplicateElement",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "FactorialNum",
+            "request": "launch",
+            "mainClass": "Practice.FactorialNum",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciNumber",
+            "request": "launch",
+            "mainClass": "Practice.FibonacciNumber",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "IsPrimeorNot",
+            "request": "launch",
+            "mainClass": "Practice.IsPrimeorNot",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MaxELement",
+            "request": "launch",
+            "mainClass": "Practice.MaxELement",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MaxnMinOfArray",
+            "request": "launch",
+            "mainClass": "Practice.MaxnMinOfArray",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "OddnEvenDigitInsideNumber",
+            "request": "launch",
+            "mainClass": "Practice.OddnEvenDigitInsideNumber",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeNumber",
+            "request": "launch",
+            "mainClass": "Practice.PalindromeNumber",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeString",
+            "request": "launch",
+            "mainClass": "Practice.PalindromeString",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "RandomNumString",
+            "request": "launch",
+            "mainClass": "Practice.RandomNumString",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "Practice.ReverseNumber",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "Practice.ReverseString",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StringChallangesDemo1",
+            "request": "launch",
+            "mainClass": "Practice.StringChallangesDemo1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StringToIntDemo",
+            "request": "launch",
+            "mainClass": "Practice.StringToIntDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SumOfArrayElements",
+            "request": "launch",
+            "mainClass": "Practice.SumOfArrayElements",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigitOfNumber",
+            "request": "launch",
+            "mainClass": "Practice.SumOfDigitOfNumber",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SumofElement",
+            "request": "launch",
+            "mainClass": "Practice.SumofElement",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SwapTwoNumbers",
+            "request": "launch",
+            "mainClass": "Practice.SwapTwoNumbers",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Test(5)",
+            "request": "launch",
+            "mainClass": "PrototypeDesignPattern.Test",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "QueueDemo",
+            "request": "launch",
+            "mainClass": "QueueDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "QueueDemo1",
+            "request": "launch",
+            "mainClass": "QueueDemo1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ReadWriteLockExample",
+            "request": "launch",
+            "mainClass": "ReadWriteLockExample",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ExternalizationDemo1",
+            "request": "launch",
+            "mainClass": "Serialization.ExternalizationDemo1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SerializationDemo",
+            "request": "launch",
+            "mainClass": "Serialization.SerializationDemo",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SerializationDemo2",
+            "request": "launch",
+            "mainClass": "Serialization.SerializationDemo2",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SerializationDemo3",
+            "request": "launch",
+            "mainClass": "Serialization.SerializationDemo3",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SerializationDemo4",
+            "request": "launch",
+            "mainClass": "Serialization.SerializationDemo4",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SerializationDemo4Test",
+            "request": "launch",
+            "mainClass": "Serialization.SerializationDemo4Test",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "SetClass",
+            "request": "launch",
+            "mainClass": "SetClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Test(6)",
+            "request": "launch",
+            "mainClass": "ShallowAndDeepCopy.Test",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Simple",
+            "request": "launch",
+            "mainClass": "Simple",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "TestPattern",
+            "request": "launch",
+            "mainClass": "SingletonPattern.TestPattern",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StackClass",
+            "request": "launch",
+            "mainClass": "StackClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StaticKeyword",
+            "request": "launch",
+            "mainClass": "StaticKeyword",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StrReverse",
+            "request": "launch",
+            "mainClass": "String.StrReverse",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Immutability_1",
+            "request": "launch",
+            "mainClass": "String.StringClasses.Immutability_1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Test(7)",
+            "request": "launch",
+            "mainClass": "String.StringClasses.Test",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StringCompare",
+            "request": "launch",
+            "mainClass": "String.StringCompare",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "StringOperation",
+            "request": "launch",
+            "mainClass": "String.StringOperation",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "HDFCBankTest",
+            "request": "launch",
+            "mainClass": "Syncronization.HDFCBankTest",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Test(8)",
+            "request": "launch",
+            "mainClass": "Syncronization.Test",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Test(9)",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ThreadExample(1)",
+            "request": "launch",
+            "mainClass": "ThreadExample",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ThreadGroupClass",
+            "request": "launch",
+            "mainClass": "ThreadGroupClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ThreadGroupClass1",
+            "request": "launch",
+            "mainClass": "ThreadGroupClass1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MutabilityString",
+            "request": "launch",
+            "mainClass": "Threads.MutabilityString",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "MyThreadClass",
+            "request": "launch",
+            "mainClass": "Threads.MyThreadClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Test(10)",
+            "request": "launch",
+            "mainClass": "Threads.Test",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "ThrowsKayword",
+            "request": "launch",
+            "mainClass": "ThrowsKayword",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "TryCatch",
+            "request": "launch",
+            "mainClass": "TryCatch",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "TryCatchFinally",
+            "request": "launch",
+            "mainClass": "TryCatchFinally",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "UnFairLockExample",
+            "request": "launch",
+            "mainClass": "UnFairLockExample",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "Variable",
+            "request": "launch",
+            "mainClass": "Variable",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "VectorClass",
+            "request": "launch",
+            "mainClass": "VectorClass",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "WrapperDemo1",
+            "request": "launch",
+            "mainClass": "Wrapper.WrapperDemo1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "WrapperDemo2",
+            "request": "launch",
+            "mainClass": "Wrapper.WrapperDemo2",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "WrapperDemo3",
+            "request": "launch",
+            "mainClass": "Wrapper.WrapperDemo3",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "WrapperDemo4",
+            "request": "launch",
+            "mainClass": "Wrapper.WrapperDemo4",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "WrapperDemo5",
+            "request": "launch",
+            "mainClass": "Wrapper.WrapperDemo5",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "WrapperDemo6",
+            "request": "launch",
+            "mainClass": "Wrapper.WrapperDemo6",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
+            "name": "WrapperClasses",
+            "request": "launch",
+            "mainClass": "WrapperClasses",
+            "projectName": "Java-Practice_9d1dcf53"
+        }
+    ]
+}

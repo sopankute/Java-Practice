@@ -4,14 +4,13 @@ package Map;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 
-
-
 public class HashMapClass {
 
     // put(), get(), containsKey(), containsValue(), keySet(), entrySet(), remove(), size(), isEmpty(), getOrDefault()
 
     public static void main(String[] args) {
-     
+
+
         // Map<Integer, String> map = new TreeMap<>();
         // HashMap<Integer, String> map = new HashMap<>();
         HashMap<Integer, String> map = new LinkedHashMap<>();

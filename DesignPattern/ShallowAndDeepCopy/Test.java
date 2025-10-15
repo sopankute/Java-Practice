@@ -13,6 +13,7 @@ public class Test {
             NetworkConnection con1 = (NetworkConnection) con.clone();
             con.getDomains().remove(0);
             System.out.println(con1);
+            
             NetworkConnection con2 = (NetworkConnection) con.clone();
             System.out.println(con2);
         } catch (CloneNotSupportedException e) {

@@ -1,5 +1,7 @@
 package Java_8.Practice;
 
+import java.util.Arrays;
+import java.util.List;
 
 public class Employee {
 
@@ -110,6 +112,14 @@ public class Employee {
 
 
         return empList;
+    }
+
+    public static List<String> getStrings(){
+        return Arrays.asList("Alice", "Bob", "Charlie", "Diana", "Ethan","Fiona","George","Hannah","Ian","Julia","Kevin","Laura","Michael","Nina","Oliver");
+    }
+
+    public static List<Integer> getInts(){
+        return Arrays.asList(30, 55, 21, 49, 72, 19, 45, 73, 34, 67, 92, 73, 92, 66, 46);
     }
 
 }
