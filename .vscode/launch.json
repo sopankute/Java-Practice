@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwitchCase1",
+            "request": "launch",
+            "mainClass": "SwitchCase.SwitchCase1",
+            "projectName": "Java-Practice_9d1dcf53"
+        },
+        {
+            "type": "java",
             "name": "Order",
             "request": "launch",
             "mainClass": "Java_8.Order",
