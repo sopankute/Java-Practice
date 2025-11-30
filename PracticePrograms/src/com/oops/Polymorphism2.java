@@ -27,7 +27,7 @@ public class Polymorphism2 {
         MyTest2 obj3 = new ChildTest2();
         obj3.show("How are you?");      // MyTest2.show | obj = How are you?
 
-
+        System.out.println("Polymorphism2.main");
 
     }
 }
